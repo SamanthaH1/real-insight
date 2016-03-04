@@ -1,0 +1,108 @@
+body {
+	background-color: #f8fffb;
+}
+header {
+	background-color: #537f71;
+	height:200px;
+}
+.logo {
+	padding-top:75px;
+}
+.wrapper {
+	margin-left:auto;
+	margin-right:auto;
+	width:960px;
+}
+.header_section {
+	float:right;
+}
+.header_section h1, .header_section h2, .header_section p, .appraisal_type_table th, #additional_info_table th {
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	color:#ffffff;
+}
+.header_section img {
+	float:right;
+	padding-top: 15px;
+}
+.header_section h1, .header_section p {
+	font-weight:100;
+}
+.header_section h2, .appraisal_type_table th, #appraisal_title  {
+	font-weight: 300;
+	font-size: 1.5em;
+}
+.appraisal_type, .additional_info {
+	margin-top: 40px;
+}
+.appraisal_type_table th, .appraisal_type_table td, #appraisal_title, .additional_info_table td  {
+    text-align: left;
+    padding: 13px 13px 13px 19px;
+    color: #ffffff;
+}
+.appraisal_type_table td, .additional_info_table td {
+	font-weight:100;
+}
+.appraisal_type_table tr, .additional_info_table tr {
+	background-color: #828282;
+}
+#appraisal_type_title, #additional_info_title {
+	background-color:#537f71;
+}
+#dates {
+	background-color:#a9aaa9;
+}
+.vendors h1 {
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	color:#537f71;
+}
+.main_hr {
+	color: #537f71;
+	background-color: #537f71;
+	height: 1px;
+	margin:0em;
+}
+#selected_vendor {
+	background-color:rgba(143,216,190,.7);
+}
+.vendors {
+	margin-top:30px;
+}
+.vendors_table img {
+	padding:10px;
+}
+.vendors_table h3, .vendors_table p {
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	color:#545655;
+	font-weight:200;
+}
+.addvendor_area {
+    margin-top: 38px;
+    float: left;
+}
+.addvendor_area img {
+    float: left;
+    padding-right: 10px;
+}
+.addvendor_area h2 {
+    color: #537f71;
+    text-decoration: underline;
+    float: left;
+    margin-top: 0;
+}
+.additional_info, .rate_us  {
+	float:left;
+	width:100%;
+}
+.rate_us {
+	margin-top:45px;
+	margin-bottom:45px;
+}
+.rate_us img {
+	padding-right: 20px;
+	float:left;
+}
+.rate_us h1, .rate_us p {
+	color: #537f71;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+}
+
